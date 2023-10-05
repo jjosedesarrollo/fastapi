@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+*.log
+*.pot
+*.pyc
+__pycache__/
+env
+.env
+.pytest_cache
